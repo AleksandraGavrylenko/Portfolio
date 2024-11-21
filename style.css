@@ -46,6 +46,9 @@ header nav ul a:hover {
     font-weight: bold;
     border-radius: 5px;
 }
+.cta-button:hover {
+    background-color: rgb(225, 150, 168);
+}
 /* About Section */
 .about {
     padding: 50px 20px;
